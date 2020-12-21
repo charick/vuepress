@@ -51,6 +51,7 @@ module.exports = {
 值得注意的是， `.theme-default-content` 是默认主题添加给 [`<Content />`](../../guide/using-vue.md#content) 组件的 class name。
 
 ### options
+test
 
 - 类型: `object`
 - 默认值: `undefined`
